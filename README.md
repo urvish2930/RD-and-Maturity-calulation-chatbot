@@ -111,6 +111,7 @@ Feel free to fork the repo and submit a pull request.
 📄 License
 This project is licensed under the MIT License.
 
-📬 Contact
-Created by @urvish2930
-For issues, please open a GitHub issue.
+## 🙋 Author
+
+**Urvish Pandya**  
+[GitHub Profile](https://github.com/urvish2930)
